@@ -34,7 +34,12 @@ function App() {
 				<button id="new-quote" onClick={fetchQuote}>
 					New Quote
 				</button>
-				<a href="https://twitter.com/intent/tweet" id="tweet-quote" target="_blank">
+				<a
+					href="https://twitter.com/intent/tweet"
+					id="tweet-quote"
+					target="_blank"
+					rel="noopener noreferrer"
+				>
 					Tweet It
 				</a>
 			</div>

@@ -18,8 +18,8 @@ This is a simple random quote generator application built on react js for Free c
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Codepen URL: [https://codepen.io/adhipathi/pen/VwyBXRw](https://codepen.io/adhipathi/pen/VwyBXRw)
+- Netlify URL: [https://random-quotes-adhi.netlify.app](https://random-quotes-adhi.netlify.app/)
 
 ## My process
 
